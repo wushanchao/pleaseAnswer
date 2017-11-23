@@ -10,6 +10,7 @@
 
 ## 环境需求
 - 需翻墙  
+- 需使用https协议  
 - Chrome47以上  
 
 ## DEMO
@@ -34,3 +35,6 @@ pa.start();
 
 ## API
 稍候描述。  
+
+## 一种具体的形态  
+![请回答2017](https://img.alicdn.com/tfs/TB1pzxrXOqAXuNjy1XdXXaYcVXa-357-286.png)
